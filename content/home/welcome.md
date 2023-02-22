@@ -13,7 +13,7 @@ design:
     gradient_end: 'rgb(153,238,255)'
     text_color_light: false
 cta:
-  url: '#people'
+  url: '/people'
   label: 'Meet the team'
   icon_pack: fas
   icon: screen-users
