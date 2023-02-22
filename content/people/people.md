@@ -7,10 +7,10 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 68
+weight: 6
 
-title: Meet the Team
-subtitle:
+title: 
+subtitle: Meet the team
 
 content:
   # Choose which groups/teams of users to display.
