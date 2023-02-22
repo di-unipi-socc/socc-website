@@ -71,4 +71,4 @@ Jacopo Massa is a PhD student at University of Pisa and CNR-ISTI. His studies in
 
 Currently, he is member of the [Service-Oriented, Cloud and Fog Computing (SOCC)](https://di-unipi-socc.github.io) research group at the Department of Computer Science of the University of Pisa, and of the [High Performance Computing Laboratory (HPC Lab)](http://hpc.isti.cnr.it) at the CNR-ISTI of Pisa.
 
-{{< icon name="download" pack="fas" >}} For more detailed informations, please download his [resumé](https://bit.ly/cv-massa-jacopo).
+{{< icon name="house" pack="fas" >}} For more detailed informations, visit my [personal webpage](https://pages.di.unipi.it/massa)

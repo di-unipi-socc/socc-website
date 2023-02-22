@@ -30,3 +30,5 @@ advanced:
 
 <!-- <a class="github-button" href="https://github.com/di-unipi-socc" data-icon="octicon-star" data-size="large" data-show-count="false" aria-label="Follow us on GitHub">Follow us on GitHub</a> -->
 Follow us on [GitHub](https://github.com/di-unipi-socc) to stay up to date with the latest developments.
+
+<br>
