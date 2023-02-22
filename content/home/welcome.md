@@ -1,23 +1,34 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget: hero # See https://wowchemy.com/docs/page-builder/
-headless: true # This file represents a page section.
-weight: 10 # Order that this section will appear.
-title: |
-  Wowchemy  
+widget: hero
+headless: true
+weight: 10
+title: | 
+  Service-Oriented, Cloud and Fog Computing 
   Research Group
-hero_media: welcome.jpg
+hero_media: socc-logo.png
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+  background:
+    gradient_angle: 0
+    gradient_start: 'rgb(224,223,255)'
+    gradient_end: 'rgb(153,238,255)'
+    text_color_light: true
+cta:
+  url: '#people'
+  label: 'Meet the team'
+  icon_pack: fas
+  icon: screen-users
+cta_alt:
+  url:
+  label:
+cta_note:
+  label:
+advanced:
+  css_class: fullscreen
 ---
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+<a class="github-button" href="https://github.com/di-unipi-socc" data-icon="octicon-star" data-size="large" data-show-count="false" aria-label="Follow us on GitHub">Follow us on GitHub</a>
+<!-- Follow us on [GitHub](https://github.com/di-unipi-socc) to stay up to date with the latest developments. -->
+
+<!-- <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-online-course" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Online Course template">Star the Online Course template</a><script async defer src="https://buttons.github.io/buttons.js"></script> -->
