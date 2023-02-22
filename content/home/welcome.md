@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 10
+weight: 1
 title: | 
   Service-Oriented, Cloud and Fog Computing 
   Research Group
