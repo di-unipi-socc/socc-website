@@ -42,28 +42,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: address-card
+- icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:jacopo.massa@phd.unipi.it'
+
+- icon: home
+  icon_pack: fas
+  link: https://pages.di.unipi.it/massa
 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=tuUxuWUAAAAJ
 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jacopo-massa
-  
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/jacopo-massa
-
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: "https://bit.ly/cv-massa-jacopo"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
