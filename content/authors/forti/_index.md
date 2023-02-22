@@ -42,7 +42,7 @@ social:
 email: ""
 
 user_groups:
-  - Associate Professors
+  - Assistant Professors
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
