@@ -5,7 +5,7 @@ weight: 1
 title: | 
   Service-Oriented, Cloud and Fog Computing 
   Research Group
-hero_media: socc-logo.png
+hero_media: icon.png
 design:
   background:
     gradient_angle: 0
