@@ -20,13 +20,15 @@ cta_alt:
   url: '#contact'
 cta_note:
   label: >-
-        <br>
+      <div>
         <div style="text-shadow: none;">
           <a class="github-button" href="https://github.com/di-unipi-socc" data-size="large" data-show-count="true" aria-label="Follow @di-unipi-socc on GitHub">Follow @di-unipi-socc on GitHub</a>
-          <a class="github-button" href="https://www.researchgate.net/lab/Service-Oriented-Cloud-and-Fog-Computing-Research-Group-SOCC-Antonio-Brogi" data-size="large" aria-label="Follow SOCC on Research Gate">Follow SOCC on Research Gate</a>
+        </div>
+        <div>
+          <a class="github-button" href="https://www.researchgate.net/lab/Service-Oriented-Cloud-and-Fog-Computing-Research-Group-SOCC-Antonio-Brogi" data-size="large" data-icon="octicon-comment-discussion" aria-label="Follow SOCC on Research Gate">Follow SOCC on Research Gate</a>
         </div>
         <script async defer src="https://buttons.github.io/buttons.js"></script>
-        
+      </div>
 # advanced:
 #   css_class: fullscreen
 ---
