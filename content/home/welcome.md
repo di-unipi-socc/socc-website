@@ -21,7 +21,7 @@ cta_alt:
 cta_note:
   label: >-
         <br>
-        <div style="text-shadow: none;">
+        <div style="text-shadow: none; font-size: large;">
           <a class="github-button" href="https://github.com/di-unipi-socc" data-icon="octicon-star" target="_blank" data-size="large">See our projects on GitHub</a>
         </div>
         <script async defer src="https://buttons.github.io/buttons.js"></script>
