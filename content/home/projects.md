@@ -7,7 +7,7 @@ title: Research Projects
 subtitle: 'Check our recent research projects!'
 
 # Position of this section on the page
-weight: 1
+weight: 2
 
 content:
   # Filter content to display
