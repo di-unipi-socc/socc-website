@@ -20,6 +20,7 @@ cta_alt:
   url: '#contact'
 cta_note:
   label: >-
+      <hr>
       <div>
         <div style="text-shadow: none;">
           <a class="github-button" href="https://github.com/di-unipi-socc" data-size="large" data-show-count="true" aria-label="Follow @di-unipi-socc on GitHub">Follow @di-unipi-socc on GitHub</a>
