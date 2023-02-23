@@ -4,7 +4,7 @@ headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Research Projects
-subtitle: 'Check our recent research projects!'
+subtitle: 'Check out our recent research projects!'
 
 # Position of this section on the page
 weight: 2
