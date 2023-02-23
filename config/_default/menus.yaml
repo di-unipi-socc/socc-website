@@ -14,7 +14,7 @@ main:
     url: '/people'
     weight: 30
   - name: Research Projects
-    url: '/research-projects'
+    url: '#projects'
     weight: 40
   # - name: Publications
   #   url: publication
