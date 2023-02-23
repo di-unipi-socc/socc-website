@@ -18,13 +18,14 @@ content:
   user_groups:
     - Full Professors
     - Assistant Professors
+    - Post-Doc Researchers
     - PhD Students
     - MSc Students
     - BSc Students
     - Collaborators/Alumni
 design:
   show_interests: false
-  show_role: true
+  show_role: false
   show_social: true
   show_organizations: false
 ---
