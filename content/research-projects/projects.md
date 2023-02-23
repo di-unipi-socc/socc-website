@@ -2,7 +2,7 @@
 # An instance of the People widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: collection
-headless: true
+headless: false
 weight: 6
 
 title: Research Projects
@@ -14,7 +14,7 @@ count: 0
 filters:
   # The folders to display content from
   folders:
-    - projects
+    - 'projects'
   author: ''
   category: ''
   tag: ''
@@ -33,5 +33,5 @@ design:
 # Choose a listing view
 view: compact
 # Choose single or dual column layout
-columns: '1'
+columns: '2'
 ---
