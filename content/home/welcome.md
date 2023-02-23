@@ -20,9 +20,10 @@ cta_alt:
   url: '#contact'
 cta_note:
   label: >-
-        <div style="text-shadow: none;"><a class="github-button" href="https://github.com/di-unipi-socc" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">See our projects on GitHub</a></div>
-# advanced:
-#   css_class: fullscreen
+        <div style="text-shadow: none;">
+          <a class="github-button" href="https://github.com/di-unipi-socc" data-icon="octicon-star" target="_blank" data-size="large">See our projects on GitHub</a></div>
+advanced:
+  css_class: fullscreen
 ---
 
 <br>
