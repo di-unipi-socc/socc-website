@@ -1,14 +1,14 @@
 ---
-title: SeaClouds
-summary: "Seamless adaptive multi-cloud management of service-based applications"
+title: AMaCA
+summary: "Automating the management of composite applications"
 tags:
-date: "2015-01-01T00:00:00Z"
+date: "2018-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://seaclouds-project.eu/"
+external_link: "https://di-unipi-socc.github.io/AMaCA/"
 
 image:
-  caption: 'SeaClouds'
+  caption: 'AMaCA'
   focal_point: Smart
   
 url_code: ''

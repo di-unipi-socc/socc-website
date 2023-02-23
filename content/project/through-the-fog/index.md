@@ -5,7 +5,7 @@ tags:
 date: "2016-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: hhttp://pages.di.unipi.it/throughthefog/
+external_link: "http://pages.di.unipi.it/throughthefog/"
 
 image:
   caption: 'Through the Fog'
