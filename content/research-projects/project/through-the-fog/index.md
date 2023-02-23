@@ -1,14 +1,14 @@
 ---
-title: SeaClouds
-summary: "Seamless adaptive multi-cloud management of service-based applications"
+title: Through the Fog
+summary: "Deploying, programming and supporting fog computing applications"
 tags:
-date: "2015-01-01T00:00:00Z"
+date: "2016-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: http://seaclouds-project.eu/
+external_link: hhttp://pages.di.unipi.it/throughthefog/
 
 image:
-  caption: 'SeaClouds'
+  caption: 'Through the Fog'
   focal_point: Smart
   
 url_code: ''
@@ -23,4 +23,5 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ''
 ---
+
 <!-- Here you can insert a description -->
