@@ -22,7 +22,7 @@ cta_note:
   label: >-
         <br>
         <div style="text-shadow: none;">
-          <a class="github-button" style="font-size: large;" href="https://github.com/di-unipi-socc" data-icon="octicon-star" target="_blank" data-size="large">See our projects on GitHub</a>
+          <a class="github-button" href="https://github.com/di-unipi-socc" data-size="large" data-show-count="true" aria-label="Follow @di-unipi-socc on GitHub">Follow @di-unipi-socc</a>
         </div>
         <script async defer src="https://buttons.github.io/buttons.js"></script>
         
