@@ -11,7 +11,6 @@ weight: 2
 
 content:
   # Filter content to display
-  page_type: project
   filters:
     # The folders to display content from
     folders:
