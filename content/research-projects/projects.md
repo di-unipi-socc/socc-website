@@ -1,10 +1,10 @@
 ---
 widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
-headless: false  # This file represents a page section.
+headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
 title: Research Projects
-subtitle: ''
+subtitle: 'Check our recent research projects!'
 
 # Position of this section on the page
 weight: 1
@@ -37,5 +37,3 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
 ---
-
-Check out our recent research projects!

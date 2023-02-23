@@ -5,11 +5,11 @@ tags:
 date: "2015-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://seaclouds-project.eu/"
+external_link: http://seaclouds-project.eu/
 
 image:
-  caption: ''
-  focal_point: ''
+  caption: 'SeaClouds'
+  focal_point: Smart
   
 url_code: ''
 url_pdf: ''
