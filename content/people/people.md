@@ -21,8 +21,7 @@ content:
     - PhD Students
     - MSc Students
     - BSc Students
-    - Visitors
-    - Alumni
+    - Collaborators/Alumni
 design:
   show_interests: false
   show_role: true

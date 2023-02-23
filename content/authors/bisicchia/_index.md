@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Stefano Forti
+title: Giuseppe Bisicchia
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Assistant Professor
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,10 @@ organizations:
   url: https://di.unipi.it
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Assistant Professor @ University of Pisa, Italy."
+bio: "PhD student in Computer Science @ University of Pisa, Italy."
 
 # Interests to show in About widget
 interests:
- - Cloud-IoT computing paradigms
- - Green and sustainable application management
- - Formal automated reasoning 
 
 # Education to show in About widget
 education:
@@ -29,17 +26,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:stefano.forti@unipi.it'
+  link: 'mailto:giuseppe.bisicchia@phd.unipi.it'
 
-- icon: home
-  icon_pack: fas
-  link: https://pages.di.unipi.it/forti
+# - icon: home
+#   icon_pack: fas
+#   link: ''
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 user_groups:
-  - Assistant Professors
+  - PhD Students
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
