@@ -1,37 +1,41 @@
 ---
-# An instance of the People widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: collection
-headless: false
-weight: 6
+widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
+headless: true  # This file represents a page section.
 
+# Put Your Section Options Here (title, background, etc.) ...
 title: Research Projects
 subtitle: ''
-text: 'Check out our recent research projects!'
-# Choose how many pages you would like to display (0 = all pages)
-count: 0
-# Filter on criteria
-filters:
-  # The folders to display content from
-  folders:
-    - 'projects'
-  author: ''
-  category: ''
-  tag: ''
-  publication_type: ''
-  featured_only: false
-  exclude_featured: false
-  exclude_future: false
-  exclude_past: false
-# Choose how many pages you would like to offset by
-# Useful if you wish to show the first item in the Featured widget
-offset: 0
-# Field to sort by, such as Date or Title
-sort_by: 'Date'
-sort_ascending: false
+
+# Position of this section on the page
+weight: 1
+
+content:
+  # Filter content to display
+  filters:
+    # The folders to display content from
+    folders:
+      - projects
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    featured_only: false
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Choose how many pages you would like to offset by
+  # Useful if you wish to show the first item in the Featured widget
+  offset: 0
+  # Field to sort by, such as Date or Title
+  sort_by: 'Date'
+  sort_ascending: false
 design:
-# Choose a listing view
-view: compact
-# Choose single or dual column layout
-columns: '2'
+  # Choose a listing view
+  view: compact
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
 ---
+
+Check out our recent research projects!

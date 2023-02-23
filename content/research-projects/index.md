@@ -1,4 +1,3 @@
 ---
-# Files in this folder represent a Widget Page
-type: landing
+type: widget_page
 ---
