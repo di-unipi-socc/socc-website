@@ -8,6 +8,7 @@ subtitle: ''
 
 # Position of this section on the page
 weight: 3
+page_type: project
 
 content:
   # Filter content to display
