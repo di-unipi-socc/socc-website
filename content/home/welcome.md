@@ -23,7 +23,13 @@ cta_note:
       <br>
       <div>
         <div style="text-shadow: none; padding: 3px;">
-          <a class="github-button" href="https://github.com/di-unipi-socc" data-size="large" data-show-count="true" aria-label="Follow @di-unipi-socc on GitHub">Follow @di-unipi-socc on GitHub</a><a class="github-button" href="https://www.researchgate.net/lab/Service-Oriented-Cloud-and-Fog-Computing-Research-Group-SOCC-Antonio-Brogi" data-size="large" data-icon="octicon-comment-discussion" aria-label="Follow SOCC on Research Gate">Follow SOCC on Research Gate</a><a class="github-button" href="https://www.youtube.com/channel/UC6Kzupom8lpBc7dO-wcXp_g" data-size="large" data-icon="octicon-eye" aria-label="Follow SOCC on YouTube">Follow SOCC on YouTube</a>
+          <a class="github-button" href="https://github.com/di-unipi-socc" data-size="large" data-show-count="true" aria-label="Follow @di-unipi-socc on GitHub">Follow @di-unipi-socc on GitHub</a>
+        </div>
+        <div style="text-shadow: none; padding: 3px;">
+          <a class="github-button" href="https://www.researchgate.net/lab/Service-Oriented-Cloud-and-Fog-Computing-Research-Group-SOCC-Antonio-Brogi" data-size="large" data-icon="octicon-comment-discussion" aria-label="Follow SOCC on Research Gate">Follow SOCC on Research Gate</a>
+        </div>
+        <div style="text-shadow: none; padding: 3px;">
+          <a class="github-button" href="https://www.youtube.com/channel/UC6Kzupom8lpBc7dO-wcXp_g" data-size="large" data-icon="octicon-eye" aria-label="Follow SOCC on YouTube">Follow SOCC on YouTube</a>
         </div>
         <script async defer src="https://buttons.github.io/buttons.js"></script>
       </div>
