@@ -43,4 +43,4 @@ cta_note:
 
 **S**ervice-**O**riented, **C**loud and Fog **C**omputing Research Group
 
-<br>
+<br><br>
