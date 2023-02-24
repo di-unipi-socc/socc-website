@@ -15,8 +15,8 @@ doi: "10.1007/978-3-031-18304-1_8"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SummerSOC, 2022. Communications in Computer and Information Science, vol 1603. Springer, Cham"
-publication_short: "CCIS 1603 @ SummerSOC, 2022"
+publication: "SummerSOC, Communications in Computer and Information Science, vol 1603. Springer, Cham"
+publication_short: "CCIS 1603 @ SummerSOC"
 
 abstract: "A declarative solution to determine, in a data-aware manner, application service placements and SDN data routings over Cloud-IoT infrastructures while meeting functional (software, hardware, IoT) and non-functional (security, latency, bandwidth) application requirements. The solution employs continuous reasoning to speed up the reconfiguration of application placements and routing decisions at runtime, when needed. An open-source Prolog prototype is presented and assessed over a scenario based on lifelike data."
 
