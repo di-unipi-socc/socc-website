@@ -21,13 +21,26 @@ cta_alt:
 cta_note:
   label: >-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <a href="https://github.com/di-unipi-socc" class=" btn btn-light btn-md">
-      <i class="fa-brands fa-github"></i> <strong>Follow @di-unipi-socc on GitHub</strong>
-    </a>
+
+    <div style="text-shadow: none; padding: 3px;">
+      <a href="https://github.com/di-unipi-socc" class=" btn btn-light btn-md">
+        <i class="fa-brands fa-github"></i> <strong> @di-unipi-SOCC</strong>
+      </a>
+    </div>
+    <div style="text-shadow: none; padding: 3px;">
+      <a href="https://www.researchgate.net/lab/Service-Oriented-Cloud-and-Fog-Computing-Research-Group-SOCC-Antonio-Brogi" class=" btn btn-light btn-md">
+        <i class="fa-brands fa-researchgate"></i> <strong>Research Gate</strong>
+      </a>
+    </div>
+    <div style="text-shadow: none; padding: 3px;">
+      <a href="https://www.youtube.com/channel/UC6Kzupom8lpBc7dO-wcXp_g" class=" btn btn-light btn-md">
+        <i class="fa-brands fa-youtube"></i> <strong>YouTube</strong>
+      </a>
+    </div>
 # advanced:
 #   css_class: fullscreen
 ---
 
 **S**ervice-**O**riented, **C**loud and Fog **C**omputing Research Group
-<div class="mb-3"></div>
-<!-- <br> <a class="github-button" href="https://www.researchgate.net/lab/Service-Oriented-Cloud-and-Fog-Computing-Research-Group-SOCC-Antonio-Brogi" data-size="large" data-icon="octicon-comment-discussion" aria-label="Follow SOCC on Research Gate">Follow SOCC on Research Gate</a> -->
+
+<br>
