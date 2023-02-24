@@ -11,6 +11,7 @@ weight: 3
 
 content:
   # Filter content to display
+  date_format: 2006
   filters:
     # The folders to display content from
     folders:
