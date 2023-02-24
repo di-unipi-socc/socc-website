@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: portfolio
 headless: true
 
 title: Prototypes
@@ -12,7 +12,7 @@ count: 0
 offset: 0
 
 # Listing view
-view: 'compact'
+view: compact
 columns: '1'
 
 # Field to sort by, such as Date or Title
