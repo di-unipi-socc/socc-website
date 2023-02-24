@@ -20,7 +20,17 @@ cta_alt:
   url: '#contact'
 cta_note:
   label: >-
-      <br>
+  >-
+          <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
+# advanced:
+#   css_class: fullscreen
+---
+
+**S**ervice-**O**riented, **C**loud and Fog **C**omputing Research Group
+
+<br>
+
+<!-- <br>
       <script async defer src="https://buttons.github.io/buttons.js"></script>
       <div>
         <div style="padding: 3px;">
@@ -32,11 +42,4 @@ cta_note:
         <div style="padding: 3px;">
           <a class="github-button" href="https://www.youtube.com/channel/UC6Kzupom8lpBc7dO-wcXp_g" data-size="large" data-icon="octicon-eye" aria-label="Follow SOCC on YouTube">Follow SOCC on YouTube</a>
         </div>
-      </div>
-# advanced:
-#   css_class: fullscreen
----
-
-**S**ervice-**O**riented, **C**loud and Fog **C**omputing Research Group
-
-<br>
+      </div> -->
