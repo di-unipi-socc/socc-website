@@ -3,6 +3,7 @@ title: DockerAnalyser
 summary: "Microservice-based tool for building customised analysers of Docker images."
 tags:
 date: "2018-01-01T00:00:00Z"
+doi: "10.1002/spe.2583"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/di-unipi-socc/dockeranalyser"
@@ -18,7 +19,7 @@ image:
 #     url: ''
   
 url_code: 'https://github.com/di-unipi-socc/dockeranalyser'
-url_pdf: 'https://www.researchgate.net/publication/324576577_A_microservice-based_architecture_for_customisable_analyses_of_Docker_images'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 

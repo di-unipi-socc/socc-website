@@ -19,7 +19,7 @@ image:
 #     url: ''
   
 url_code: 'https://github.com/di-unipi-socc/dockerfinder'
-url_pdf: 'https://www.researchgate.net/publication/324576577_A_microservice-based_architecture_for_customisable_analyses_of_Docker_images'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
