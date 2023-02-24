@@ -3,6 +3,7 @@ title: LiSCIo
 summary: "Lightweight Self-adaptive Cloud-IoT Monitoring across Fed4FIRE+ Testbeds."
 tags:
 date: "2020-01-01T00:00:00Z"
+authors: 
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.fed4fire.eu/demo-stories/oc8/liscio/"
