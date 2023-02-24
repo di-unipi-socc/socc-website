@@ -21,7 +21,7 @@ cta_alt:
 cta_note:
   label: >-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+    <br>
     <div style="text-shadow: none; padding: 8px 8px 8px 0px;">
       <a href="https://github.com/di-unipi-socc" class="btn btn-light btn-md">
         <i class="fa-brands fa-github"></i> <strong> @di-unipi-SOCC</strong>
@@ -37,7 +37,6 @@ cta_note:
         <i class="fa-brands fa-youtube"></i> <strong>YouTube</strong>
       </a>
     </div>
-    <br><br>
 # advanced:
 #   css_class: fullscreen
 ---
