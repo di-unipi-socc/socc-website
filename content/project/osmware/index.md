@@ -3,6 +3,7 @@ title: OSMWARE
 summary: "hOlistic Sustainable Management of distributed softWARE systems."
 tags:
 date: "2022-01-01T00:00:00Z"
+authors: 
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
