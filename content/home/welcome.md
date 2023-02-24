@@ -37,10 +37,11 @@ cta_note:
         <i class="fa-brands fa-youtube"></i> <strong>YouTube</strong>
       </a>
     </div>
+    <br>
 # advanced:
 #   css_class: fullscreen
 ---
 
 **S**ervice-**O**riented, **C**loud and Fog **C**omputing Research Group
 
-<br><br>
+<br>
