@@ -8,8 +8,6 @@ superuser: true
 # Role/position/tagline
 role: Full Professor
 
-external_link: "https://pages.di.unipi.it/brogi"
-
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Pisa
@@ -36,6 +34,10 @@ social:
 - icon: home
   icon_pack: fas
   link: https://pages.di.unipi.it/brogi
+
+- icon: scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=lOFQGacAAAAJ&hl
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

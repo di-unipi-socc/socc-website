@@ -34,6 +34,10 @@ social:
   icon_pack: fas
   link: https://pages.di.unipi.it/soldani
 
+- icon: scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=k4sVHoUAAAAJ&hl
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
