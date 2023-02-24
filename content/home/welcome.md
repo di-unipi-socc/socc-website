@@ -23,17 +23,17 @@ cta_note:
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <br>
     <div>
-      <div style="text-shadow: none; padding: 8px 8px 8px 0px; margin: 0 auto;">
+      <div style="text-shadow: none; padding: 8px 8px 8px 0px;">
         <a href="https://github.com/di-unipi-socc" class="btn btn-light btn-md">
           <i class="fa-brands fa-github fa-xl"></i> <strong> @di-unipi-SOCC</strong>
         </a>
       </div>
-      <div style="text-shadow: none; padding: 8px 8px 8px 0px; margin: 0 auto;">
+      <div style="text-shadow: none; padding: 8px 8px 8px 0px;">
         <a href="https://www.researchgate.net/lab/Service-Oriented-Cloud-and-Fog-Computing-Research-Group-SOCC-Antonio-Brogi" class="btn btn-light btn-md">
           <i class="fa-brands fa-researchgate fa-xl"></i> <strong>Research Gate</strong>
         </a>
       </div>
-      <div style="text-shadow: none; padding: 8px 8px 8px 0px; margin: 0 auto;">
+      <div style="text-shadow: none; padding: 8px 8px 8px 0px;">
         <a href="https://www.youtube.com/channel/UC6Kzupom8lpBc7dO-wcXp_g" class="btn btn-light btn-md">
           <i class="fa-brands fa-youtube fa-xl"></i> <strong>YouTube</strong>
         </a>
