@@ -10,7 +10,11 @@ sections:
       subtitle: ' '
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 0
+      count: 5
+      archive:
+        enable: true
+        text: See all prototypes
+        link: prototype/
       # Filter on criteria
       # filters:
       #   # The folders to display content from
