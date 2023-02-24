@@ -27,9 +27,6 @@ url_code: "https://github.com/di-unipi-socc/daplacer"
 url_pdf: ''
 url_slides: ''
 url_video: "https://www.youtube.com/watch?v=TkSmO_cETlw"
-links:
-- name: 'Prototype'
-  url: "prototype/daplacer"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
