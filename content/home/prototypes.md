@@ -6,6 +6,8 @@ headless: true  # This file represents a page section.
 title: Prototypes
 subtitle: ''
 
+date_format: ''
+
 # Position of this section on the page
 weight: 3
 
