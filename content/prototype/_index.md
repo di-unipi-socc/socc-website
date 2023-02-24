@@ -1,42 +1,27 @@
 ---
-title: Prototypes
-type: landing
+widget: portfolio
+headless: true
 
-sections:
-  - block: collection
-    id: posts
-    content:
-      title: Prototypes
-      subtitle: ' '
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      archive:
-        enable: true
-        text: See all prototypes
-        link: prototype/
-      # Filter on criteria
-      # filters:
-      #   # The folders to display content from
-      #   folders:
-      #     - post
-      #   author: ""
-      #   category: ""
-      #   tag: ""
-      #   publication_type: ""
-      #   featured_only: false
-      #   exclude_featured: false
-      #   exclude_future: false
-      #   exclude_past: false
-      # Choose how many pages you would like to offset by
-      # Useful if you wish to show the first item in the Featured widget
-      offset: 0
-      # Field to sort by, such as Date or Title
-      sort_by: 'Date'
-      sort_ascending: false
-    design:
-      # Choose a listing view
-      view: compact
-      # Choose single or dual column layout
-      columns: '1'
+title: Prototypes
+subtitle: 'Check out our **open-source** prototypes!'
+
+# Choose how many pages you would like to display (0 = all pages)
+count: 0
+
+# Choose how many pages you would like to offset by
+# Useful if you wish to show the first item in the Featured widget
+offset: 0
+
+# Field to sort by, such as Date or Title
+sort_by: 'Date'
+sort_ascending: false
+
+# Listing view
+view: compact
+columns: '1'
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
 ---

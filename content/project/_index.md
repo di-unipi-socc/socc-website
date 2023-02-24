@@ -1,5 +1,5 @@
 ---
-widget: pages
+widget: portfolio
 headless: true
 
 title: Research Projects
@@ -19,11 +19,6 @@ sort_ascending: false
 # Listing view
 view: compact
 columns: '1'
-
-archive:
-    enable: true
-    text: See all projects
-    link: project/
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
