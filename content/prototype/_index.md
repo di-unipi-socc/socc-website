@@ -16,6 +16,11 @@ columns: '1'
 sort_by: 'Date'
 sort_ascending: false
 
+archive:
+    enable: true
+    text: See all prototypes
+    link: prototype/
+
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
