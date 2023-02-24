@@ -1,15 +1,15 @@
 ---
-title: DockerAnalyser
-summary: "Microservice-based tool for building customised analysers of Docker images."
+title: FogTorchPI
+summary: "Tool for probabilistic QoS-assurance and resource consumption estimation of fog application deployments."
 tags:
-date: "2018-01-01T00:00:00Z"
-doi: "10.1002/spe.2583"
+date: "2019-01-01T00:00:00Z"
+doi: "10.1002/9781119525080.ch9"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/di-unipi-socc/dockeranalyser"
+external_link: "https://github.com/di-unipi-socc/FogTorchPI"
 
 image:
-  caption: 'DockerAnalyser'
+  caption: 'FogTorchPI'
   focal_point: Smart
 
 # links:
@@ -18,7 +18,7 @@ image:
 #     name: ''
 #     url: ''
   
-url_code: 'https://github.com/di-unipi-socc/dockeranalyser'
+url_code: 'https://github.com/di-unipi-socc/FogTorchPI'
 url_pdf: ''
 url_slides: ''
 url_video: ''

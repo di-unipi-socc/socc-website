@@ -1,15 +1,15 @@
 ---
-title: DockerAnalyser
-summary: "Microservice-based tool for building customised analysers of Docker images."
+title: FogDirSim
+summary: "A simulation environment of CISCO FogDirector application management."
 tags:
-date: "2018-01-01T00:00:00Z"
-doi: "10.1002/spe.2583"
+date: "2019-01-01T00:00:00Z"
+doi: "10.1016/j.simpat.2019.102021"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/di-unipi-socc/dockeranalyser"
+external_link: "https://github.com/di-unipi-socc/FogDirSim"
 
 image:
-  caption: 'DockerAnalyser'
+  caption: 'FogDirSim'
   focal_point: Smart
 
 # links:
@@ -18,7 +18,7 @@ image:
 #     name: ''
 #     url: ''
   
-url_code: 'https://github.com/di-unipi-socc/dockeranalyser'
+url_code: 'https://github.com/di-unipi-socc/FogDirSim'
 url_pdf: ''
 url_slides: ''
 url_video: ''

@@ -1,15 +1,15 @@
 ---
-title: DockerAnalyser
-summary: "Microservice-based tool for building customised analysers of Docker images."
+title: EdgeUsher
+summary: "A declarative prototype to solve the VNF placement in Cloud-Edge scenarios."
 tags:
-date: "2018-01-01T00:00:00Z"
-doi: "10.1002/spe.2583"
+date: "2021-01-01T00:00:00Z"
+doi: "10.1017/S1471068421000016"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/di-unipi-socc/dockeranalyser"
+external_link: "https://github.com/di-unipi-socc/EdgeUsher"
 
 image:
-  caption: 'DockerAnalyser'
+  caption: 'EdgeUsher'
   focal_point: Smart
 
 # links:
@@ -18,7 +18,7 @@ image:
 #     name: ''
 #     url: ''
   
-url_code: 'https://github.com/di-unipi-socc/dockeranalyser'
+url_code: 'https://github.com/di-unipi-socc/EdgeUsher'
 url_pdf: ''
 url_slides: ''
 url_video: ''

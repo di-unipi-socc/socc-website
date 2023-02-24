@@ -1,15 +1,15 @@
 ---
-title: DockerAnalyser
-summary: "Microservice-based tool for building customised analysers of Docker images."
+title: FogBrain
+summary: "Continuous reasoning for managing next-gen distributed applications."
 tags:
-date: "2018-01-01T00:00:00Z"
-doi: "10.1002/spe.2583"
+date: "2020-01-01T00:00:00Z"
+doi: "10.4204/EPTCS.325.22"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/di-unipi-socc/dockeranalyser"
+external_link: "http://pages.di.unipi.it/forti/fogbrain/"
 
 image:
-  caption: 'DockerAnalyser'
+  caption: 'FogBrain'
   focal_point: Smart
 
 # links:
@@ -18,7 +18,7 @@ image:
 #     name: ''
 #     url: ''
   
-url_code: 'https://github.com/di-unipi-socc/dockeranalyser'
+url_code: 'https://github.com/di-unipi-socc/fogbrain'
 url_pdf: ''
 url_slides: ''
 url_video: ''

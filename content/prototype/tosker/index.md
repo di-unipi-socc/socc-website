@@ -1,15 +1,15 @@
 ---
-title: DockerAnalyser
-summary: "Microservice-based tool for building customised analysers of Docker images."
+title: TosKer
+summary: "Docker-based support for orchestrating multi-component applications specified in TOSCA."
 tags:
 date: "2018-01-01T00:00:00Z"
-doi: "10.1002/spe.2583"
+doi: "10.1002/spe.2625"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/di-unipi-socc/dockeranalyser"
+external_link: "https://github.com/di-unipi-socc/TosKer"
 
 image:
-  caption: 'DockerAnalyser'
+  caption: 'TosKer'
   focal_point: Smart
 
 # links:
@@ -18,7 +18,7 @@ image:
 #     name: ''
 #     url: ''
   
-url_code: 'https://github.com/di-unipi-socc/dockeranalyser'
+url_code: 'https://github.com/di-unipi-socc/TosKer'
 url_pdf: ''
 url_slides: ''
 url_video: ''

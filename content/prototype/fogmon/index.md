@@ -1,15 +1,15 @@
 ---
-title: DockerAnalyser
-summary: "Microservice-based tool for building customised analysers of Docker images."
+title: FogMon
+summary: "A distributed monitoring tool for Fog infrastructures."
 tags:
-date: "2018-01-01T00:00:00Z"
-doi: "10.1002/spe.2583"
+date: "2020-01-01T00:00:00Z"
+doi: "10.1016/j.future.2020.08.011"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/di-unipi-socc/dockeranalyser"
+external_link: "https://github.com/di-unipi-socc/FogMon"
 
 image:
-  caption: 'DockerAnalyser'
+  caption: 'FogMon'
   focal_point: Smart
 
 # links:
@@ -18,7 +18,7 @@ image:
 #     name: ''
 #     url: ''
   
-url_code: 'https://github.com/di-unipi-socc/dockeranalyser'
+url_code: 'https://github.com/di-unipi-socc/FogMon'
 url_pdf: ''
 url_slides: ''
 url_video: ''

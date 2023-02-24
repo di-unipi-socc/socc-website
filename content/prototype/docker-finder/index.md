@@ -9,7 +9,7 @@ doi: "10.1109/IC2E.2017.41"
 external_link: "https://github.com/di-unipi-socc/dockerfinder"
 
 image:
-  caption: 'Barrel'
+  caption: 'DockerFinder'
   focal_point: Smart
 
 # links:
