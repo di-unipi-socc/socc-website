@@ -14,10 +14,10 @@ main:
     url: '/people'
     weight: 30
   - name: Research Projects
-    url: '#projects'
+    url: '/project'
     weight: 40
   - name: Prototypes
-    url: '#prototypes'
+    url: '/prototype'
     weight: 50
   # - name: Publications
   #   url: publication

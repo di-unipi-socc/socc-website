@@ -1,7 +1,7 @@
 ---
 widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
 headless: true  # This file represents a page section.
-
+active: false
 # Put Your Section Options Here (title, background, etc.) ...
 title: Prototypes
 subtitle: ''
