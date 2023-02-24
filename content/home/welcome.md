@@ -21,7 +21,7 @@ cta_alt:
 cta_note:
   label: >-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <button class="btn"><i class="fa-brands fa-github"><a href="https://github.com/di-unipi-socc" target="_blank"</a></i></button>
+    <a href="https://github.com/di-unipi-socc" target="_blank"><button class="btn"><i class="fa-brands fa-github"></i></button></a>
 # advanced:
 #   css_class: fullscreen
 ---
