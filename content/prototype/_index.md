@@ -1,7 +1,6 @@
 ---
 widget: pages
 headless: true
-page_type: post
 
 title: Prototypes
 subtitle: ''
