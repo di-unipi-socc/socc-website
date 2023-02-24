@@ -1,8 +1,10 @@
 ---
-title: Prototypes
-subtitle: ''
 widget: pages
 headless: true
+page_type: post
+
+title: Prototypes
+subtitle: ''
 
 # Choose how many pages you would like to display (0 = all pages)
 count: 0
