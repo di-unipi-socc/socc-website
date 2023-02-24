@@ -1,6 +1,7 @@
 ---
 widget: pages
 headless: true
+pager: false
 
 title: Prototypes
 subtitle: ''
