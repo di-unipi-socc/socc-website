@@ -1,6 +1,6 @@
 ---
-title: Liscio
-summary: "Lightweight Self-adaptive Cloud-IoT Monitoring across Fed4FIRE+ Testbeds"
+title: LiSCIo
+summary: "Lightweight Self-adaptive Cloud-IoT Monitoring across Fed4FIRE+ Testbeds."
 tags:
 date: "2020-01-01T00:00:00Z"
 
@@ -8,7 +8,7 @@ date: "2020-01-01T00:00:00Z"
 external_link: "https://www.fed4fire.eu/demo-stories/oc8/liscio/"
 
 image:
-  caption: 'SeaClouds'
+  caption: 'Liscio'
   focal_point: Smart
   
 url_code: 'https://github.com/di-unipi-socc/FogMon/tree/liscio-2.0'
