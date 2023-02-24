@@ -19,6 +19,10 @@ url_pdf: ''
 url_slides: ''
 url_video: "https://www.youtube.com/watch?v=TkSmO_cETlw"
 
+links:
+  - name: 'Publication'
+  - url: 'publication/daplacer'
+
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
