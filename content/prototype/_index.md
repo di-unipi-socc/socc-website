@@ -12,7 +12,7 @@ count: 0
 offset: 0
 
 # Listing view
-view: cards
+view: masonry
 columns: '1'
 
 # Field to sort by, such as Date or Title
