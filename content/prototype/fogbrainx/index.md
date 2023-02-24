@@ -1,15 +1,15 @@
 ---
-title: FogBrain
-summary: "Continuous reasoning for managing next-gen distributed applications."
+title: FogBrainX
+summary: "Continuous reasoning for managing next-gen Cloud-IoT applications in continuity with the CI/CD pipeline."
 tags:
-date: "2020-01-01T00:00:00Z"
-doi: "10.4204/EPTCS.325.22"
+date: "2022-01-01T00:00:00Z"
+doi: "10.1093/logcom/exab083"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "http://pages.di.unipi.it/forti/fogbrain/"
+external_link: "https://github.com/di-unipi-socc/fogbrainx"
 
 image:
-  caption: 'FogBrain'
+  caption: 'FogBrainX'
   focal_point: Smart
 
 # links:
@@ -18,10 +18,10 @@ image:
 #     name: ''
 #     url: ''
   
-url_code: 'https://github.com/di-unipi-socc/fogbrain'
+url_code: 'https://github.com/di-unipi-socc/fogbrainx'
 url_pdf: ''
 url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=F7oLVrNWADA'
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
