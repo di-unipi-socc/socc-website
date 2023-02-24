@@ -1,6 +1,6 @@
 ---
 title: AMaCA
-summary: "Automating the management of composite applications"
+summary: "Automating the management of composite applications."
 tags:
 date: "2018-01-01T00:00:00Z"
 

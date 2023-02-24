@@ -1,6 +1,6 @@
 ---
 title: SeaClouds
-summary: "Seamless adaptive multi-cloud management of service-based applications"
+summary: "Seamless adaptive multi-cloud management of service-based applications."
 tags:
 date: "2015-01-01T00:00:00Z"
 
