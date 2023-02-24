@@ -22,7 +22,7 @@ cta_note:
   label: >-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <a href="https://github.com/di-unipi-socc" target="_blank">
-      <button class="btn btn-light btn-sm">
+      <button class="btn btn-light btn-md">
         <strong><i class="fa-brands fa-github"> GitHub</i></strong>
       </button>
     </a>
