@@ -20,7 +20,7 @@ cta_alt:
   url: '#contact'
 cta_note:
   label: >-
-    <div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star Wowchemy Website Builder</a></div><div style="text-shadow: none;"><a class="github-button" href="https://github.com/wowchemy/starter-hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star">Star the Academic template</a></div>
+    <div style="text-shadow: none;"><a class="github-button" href="https://github.com/di-unipi-socc" data-size="large" data-show-count="true" aria-label="Follow @di-unipi-socc on GitHub">Follow @di-unipi-socc on GitHub</a><a class="github-button" href="https://www.researchgate.net/lab/Service-Oriented-Cloud-and-Fog-Computing-Research-Group-SOCC-Antonio-Brogi" data-size="large" data-icon="octicon-comment-discussion" aria-label="Follow SOCC on Research Gate">Follow SOCC on Research Gate</a><a class="github-button" href="https://www.youtube.com/channel/UC6Kzupom8lpBc7dO-wcXp_g" data-size="large" data-icon="octicon-eye" aria-label="Follow SOCC on YouTube">Follow SOCC on YouTube</a></div>
 # advanced:
 #   css_class: fullscreen
 ---
