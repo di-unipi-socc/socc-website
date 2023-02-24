@@ -3,11 +3,11 @@ widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Research Projects
-subtitle: 'Check out our recent research projects!'
+title: Prototypes
+subtitle: ''
 
 # Position of this section on the page
-weight: 2
+weight: 3
 
 content:
   # Filter content to display

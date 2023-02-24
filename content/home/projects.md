@@ -33,7 +33,7 @@ content:
   sort_ascending: false
 design:
   # Choose a listing view
-  view: showcase
+  view: compact
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 ---
