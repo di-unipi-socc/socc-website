@@ -1,9 +1,10 @@
 ---
 title: Prototypes
 subtitle: ''
+widget: pages
 
 # Choose how many pages you would like to display (0 = all pages)
-count: 1
+count: 0
 # Choose how many pages you would like to offset by
 # Useful if you wish to show the first item in the Featured widget
 offset: 0
