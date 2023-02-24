@@ -1,6 +1,6 @@
 ---
 title: Chaos Echo
-summary: "Chaos Echo Service can be used to create applications to "chaos test" solutions for fault resiliency in multi-service applications (e.g., fault recovery, detection, or root cause analysis)."
+summary: "Chaos Echo Service can be used to create applications to \"chaos test\" solutions for fault resiliency in multi-service applications (e.g., fault recovery, detection, or root cause analysis)."
 tags:
 date: "2021-01-01T00:00:00Z"
 doi: ''
