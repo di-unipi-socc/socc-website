@@ -14,8 +14,8 @@ appearance:
 # SEO
 
 site_type: Organization
-local_business_type: 'Service-Oriented, Cloud and Fog Computing Research Group'
-org_name: ''
+org_name: 'Service-Oriented, Cloud and Fog Computing Research Group'
+local_business_type: ''
 description: ''
 twitter: ''
 
@@ -105,4 +105,4 @@ extensions:
 
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: ieeetr
