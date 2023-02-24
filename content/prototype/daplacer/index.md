@@ -21,7 +21,7 @@ url_video: "https://www.youtube.com/watch?v=TkSmO_cETlw"
 
 links:
   - name: 'Publication'
-  - url: 'publication/daplacer'
+    url: 'publication/daplacer'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
