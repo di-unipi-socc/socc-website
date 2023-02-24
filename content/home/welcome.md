@@ -32,7 +32,7 @@ cta_note:
         <i class="fa-brands fa-researchgate"></i> <strong>Research Gate</strong>
       </a>
     </div>
-    <div style="text-shadow: none; padding: 8px;">
+    <div style="text-shadow: none; padding: 5px;">
       <a href="https://www.youtube.com/channel/UC6Kzupom8lpBc7dO-wcXp_g" class="btn btn-light btn-md">
         <i class="fa-brands fa-youtube"></i> <strong>YouTube</strong>
       </a>
@@ -43,4 +43,4 @@ cta_note:
 
 **S**ervice-**O**riented, **C**loud and Fog **C**omputing Research Group
 
-<br><br>
+<br>
