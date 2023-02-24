@@ -1,7 +1,6 @@
 ---
 widget: pages
 headless: true
-pager: false
 
 title: Prototypes
 subtitle: ''
@@ -21,12 +20,12 @@ sort_by: 'Date'
 sort_ascending: false
 
 archive:
-    enable: true
-    text: See all prototypes
-    link: prototype/
+  enable: true
+  text: See all prototypes
+  link: prototype/
 
 # Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
+# banner:
+#   caption: ''
+#   image: ''
 ---
