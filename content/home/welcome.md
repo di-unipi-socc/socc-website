@@ -22,7 +22,7 @@ cta_note:
   label: >-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <a href="https://github.com/di-unipi-socc" class=" btn btn-light btn-md mb-md-1">
-      <i class="fa-brands fa-github"> <strong>Follow @di-unipi-socc on GitHub</strong></i>
+      <i class="fa-brands fa-github"></i> Follow @di-unipi-socc on GitHub
     </a>
 # advanced:
 #   css_class: fullscreen
