@@ -12,17 +12,12 @@ count: 0
 offset: 0
 
 # Listing view
-view: compact
+view: cards
 columns: '1'
 
 # Field to sort by, such as Date or Title
 sort_by: 'Date'
 sort_ascending: false
-
-archive:
-  enable: true
-  text: See all prototypes
-  link: prototype/
 
 # Optional banner image (relative to `assets/media/` folder).
 # banner:
