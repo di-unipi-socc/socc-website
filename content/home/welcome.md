@@ -26,8 +26,8 @@ cta_note:
 ---
 
 **S**ervice-**O**riented, **C**loud and Fog **C**omputing Research Group
-
-<br>
+<div class="mb-3"></div>
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <!-- <br>
       <script async defer src="https://buttons.github.io/buttons.js"></script>
