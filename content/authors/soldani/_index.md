@@ -30,9 +30,9 @@ social:
   icon_pack: fas
   link: 'mailto:jacopo.soldani@unipi.it'
 
-# - icon: home
-#   icon_pack: fas
-#   link: https://pages.di.unipi.it/soldani
+- icon: home
+  icon_pack: fas
+  link: https://pages.di.unipi.it/soldani
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
