@@ -20,18 +20,8 @@ cta_alt:
   url: '#contact'
 cta_note:
   label: >-
-    <script async defer src="https://buttons.github.io/buttons.js"></script>
-    <div>
-      <div style="padding: 3px;">
-        <a class="github-button" href="https://github.com/di-unipi-socc" data-size="large" data-show-count="true" aria-label="Follow @di-unipi-socc on GitHub">Follow @di-unipi-socc on GitHub</a>
-      </div>
-      <div style="padding: 3px;">
-        <a class="github-button" href="https://github.com/di-unipi-socc" data-size="large" data-show-count="true" aria-label="Follow @di-unipi-socc on GitHub">Follow di-unipi-socc on GitHub</a>
-      </div>
-      <div style="padding: 3px;">
-        <a class="github-button" href="https://www.youtube.com/channel/UC6Kzupom8lpBc7dO-wcXp_g" data-size="large" data-icon="octicon-eye" aria-label="Follow SOCC on YouTube">Follow SOCC on YouTube</a>
-      </div>
-    </div>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <button class="btn"><i class="fa-brands fa-github"><a href="https://github.com/di-unipi-socc" target="_blank"</a></i></button>
 # advanced:
 #   css_class: fullscreen
 ---
