@@ -1,15 +1,15 @@
 ---
 title: SecFaaS2Fog
-summary: "Support for designing the management of TOSCA applications."
+summary: "Declarative prototype for FaaS applications orchestration onto Fog infrastructures."
 tags:
-date: "2018-01-01T00:00:00Z"
-doi: "10.1016/j.jss.2018.02.005"
+date: "2022-01-01T00:00:00Z"
+doi: ''
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/di-unipi-socc/SecFaaS2Fog"
 
 image:
-  caption: 'Barrel'
+  caption: 'SecFaaS2Fog'
   focal_point: Smart
 
 # links:
