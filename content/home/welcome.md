@@ -37,7 +37,7 @@ cta_note:
         <i class="fa-brands fa-youtube"></i> <strong>YouTube</strong>
       </a>
     </div>
-    <br>
+    <br><br>
 # advanced:
 #   css_class: fullscreen
 ---
