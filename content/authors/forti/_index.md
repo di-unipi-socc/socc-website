@@ -24,6 +24,17 @@ interests:
 
 # Education to show in About widget
 education:
+  courses:
+  - course: PhD in Computer Science
+    institution: University of Pisa
+    year: 2016 - 2020
+  - course: MSc in Computer Science & Networking
+    institution: Sant'Anna School of Advanced Studies & University of Pisa
+    year: 2014 - 2016
+  - course: BSc in Computer Science
+    institution: University of Pisa
+    year: 2011 - 2014
+
 
 # Social/Academic Networking
 social:
