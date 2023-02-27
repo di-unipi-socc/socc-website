@@ -21,11 +21,12 @@ cta_alt:
 cta_note:
   label: >-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script async defer src="https://buttons.github.io/buttons.js"></script>
     <br>
     <div>
-      <div>
-        <a class="github-button" href="https://github.com/di-unipi-socc" data-size="large" data-show-count="true" aria-label="Follow @di-unipi-socc on GitHub">Follow @di-unipi-socc</a>
+      <div style="text-shadow: none; padding: 8px 8px 8px 0px;">
+        <a href="https://github.com/di-unipi-socc" target="_blank" class="btn btn-light btn-md">
+          <i class="fa-brands fa-github fa-xl"></i> <strong> @di-unipi-SOCC</strong>
+        </a>
       </div>
       <div style="text-shadow: none; padding: 8px 8px 8px 0px;">
         <a href="https://www.researchgate.net/lab/Service-Oriented-Cloud-and-Fog-Computing-Research-Group-SOCC-Antonio-Brogi" target="_blank" class="btn btn-light btn-md">
@@ -44,9 +45,4 @@ cta_note:
 
 **S**ervice-**O**riented, **C**loud and Fog **C**omputing Research Group
 
-<!-- <div style="text-shadow: none; padding: 8px 8px 8px 0px;">
-        <a href="https://github.com/di-unipi-socc" target="_blank" class="btn btn-light btn-md">
-          <i class="fa-brands fa-github fa-xl"></i> <strong> @di-unipi-SOCC</strong>
-        </a>
-  -->
 <br>
