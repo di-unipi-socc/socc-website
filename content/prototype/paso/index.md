@@ -2,7 +2,7 @@
 title: PASO
 summary: "Probabilistic analyser of QoS in service orchestrations."
 tags:
-date: "2014-01-01T00:00:00Z"
+date: "2014-11-01T00:00:00Z"
 doi: "10.1007/978-3-662-45391-9"
 
 # Optional external URL for project (replaces project detail page).

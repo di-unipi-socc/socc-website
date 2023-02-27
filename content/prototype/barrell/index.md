@@ -2,7 +2,7 @@
 title: Barrel
 summary: "Support for designing the management of TOSCA applications."
 tags:
-date: "2018-01-01T00:00:00Z"
+date: "2018-05-01T00:00:00Z"
 doi: "10.1016/j.jss.2018.02.005"
 
 # Optional external URL for project (replaces project detail page).

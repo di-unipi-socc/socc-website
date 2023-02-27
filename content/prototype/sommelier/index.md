@@ -2,7 +2,7 @@
 title: Sommelier
 summary: "Validator for TOSCA application topologies."
 tags:
-date: "2017-01-01T00:00:00Z"
+date: "2018-07-08T00:00:00Z"
 doi: "10.1007/978-3-319-94764-8_1"
 
 # Optional external URL for project (replaces project detail page).

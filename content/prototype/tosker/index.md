@@ -2,7 +2,7 @@
 title: TosKer
 summary: "Docker-based support for orchestrating multi-component applications specified in TOSCA."
 tags:
-date: "2018-01-01T00:00:00Z"
+date: "2018-08-01T00:00:00Z"
 doi: "10.1002/spe.2625"
 
 # Optional external URL for project (replaces project detail page).

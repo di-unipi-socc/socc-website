@@ -2,7 +2,7 @@
 title: Faas2Fog
 summary: "FaaS2Fog is a declarative prototype to place orchestrated FaaS applications onto a Fog infrastructure satisfying QoS, hardware and software requirements of serverless functions and employing information-flow security techniques to prevent leaks of critical information."
 tags:
-date: "2019-01-01T00:00:00Z"
+date: "2021-05-01T00:00:00Z"
 doi: ''
 
 # Optional external URL for project (replaces project detail page).

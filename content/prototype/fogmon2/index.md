@@ -2,7 +2,7 @@
 title: FogMon
 summary: "A distributed monitoring tool for Fog infrastructures."
 tags:
-date: "2020-01-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: "10.1016/j.future.2020.08.011"
 
 # Optional external URL for project (replaces project detail page).

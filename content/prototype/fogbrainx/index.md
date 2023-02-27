@@ -2,7 +2,7 @@
 title: FogBrainX
 summary: "Continuous reasoning for managing next-gen Cloud-IoT applications in continuity with the CI/CD pipeline."
 tags:
-date: "2022-01-01T00:00:00Z"
+date: "2022-02-11T00:00:00Z"
 doi: "10.1093/logcom/exab083"
 
 # Optional external URL for project (replaces project detail page).

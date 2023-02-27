@@ -2,7 +2,7 @@
 title: FogDirMime
 summary: "A core API to simulate FogDirector application management."
 tags:
-date: "2019-01-01T00:00:00Z"
+date: "2019-02-08T00:00:00Z"
 doi: "10.1007/s00450-019-00403-y"
 
 # Optional external URL for project (replaces project detail page).

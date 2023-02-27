@@ -2,7 +2,7 @@
 title: PASA
 summary: "Probabilistic analyser of QoS in parallel applications."
 tags:
-date: "2016-01-01T00:00:00Z"
+date: "2016-11-18T00:00:00Z"
 doi: "10.1007/s10766-016-0476-8"
 
 # Optional external URL for project (replaces project detail page).

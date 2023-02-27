@@ -2,7 +2,7 @@
 title: FogBrain
 summary: "Continuous reasoning for managing next-gen distributed applications."
 tags:
-date: "2020-01-01T00:00:00Z"
+date: "2020-09-22T00:00:00Z"
 doi: "10.4204/EPTCS.325.22"
 
 # Optional external URL for project (replaces project detail page).

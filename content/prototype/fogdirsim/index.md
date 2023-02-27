@@ -2,7 +2,7 @@
 title: FogDirSim
 summary: "A simulation environment of CISCO FogDirector application management."
 tags:
-date: "2019-01-01T00:00:00Z"
+date: "2020-05-01T00:00:00Z"
 doi: "10.1016/j.simpat.2019.102021"
 
 # Optional external URL for project (replaces project detail page).

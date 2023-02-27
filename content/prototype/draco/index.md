@@ -2,7 +2,7 @@
 title: DrACO
 summary: "Discoverer of cloud offerings specified in TOSCA."
 tags:
-date: "2016-01-01T00:00:00Z"
+date: "2016-10-28T00:00:00Z"
 doi: "10.1007/s00450-016-0332-5"
 
 # Optional external URL for project (replaces project detail page).

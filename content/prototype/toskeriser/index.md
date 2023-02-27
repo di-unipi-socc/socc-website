@@ -2,7 +2,7 @@
 title: TosKeriser
 summary: "Completer of TOSCA applications that can run with TosKer."
 tags:
-date: "2018-01-01T00:00:00Z"
+date: "2018-10-15T00:00:00Z"
 doi: "10.1016/j.scico.2018.07.005"
 
 # Optional external URL for project (replaces project detail page).

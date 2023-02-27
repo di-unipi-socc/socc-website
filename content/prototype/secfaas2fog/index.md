@@ -2,7 +2,7 @@
 title: SecFaaS2Fog
 summary: "Declarative prototype for FaaS applications orchestration onto Fog infrastructures."
 tags:
-date: "2022-01-01T00:00:00Z"
+date: "2022-05-01T00:00:00Z"
 doi: ''
 
 # Optional external URL for project (replaces project detail page).

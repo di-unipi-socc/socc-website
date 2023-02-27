@@ -2,7 +2,7 @@
 title: DockerAnalyser
 summary: "Microservice-based tool for building customised analysers of Docker images."
 tags:
-date: "2018-01-01T00:00:00Z"
+date: "2018-04-17T00:00:00Z"
 doi: "10.1002/spe.2583"
 
 # Optional external URL for project (replaces project detail page).

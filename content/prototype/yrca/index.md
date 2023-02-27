@@ -6,10 +6,10 @@ date: "2022-01-01T00:00:00Z"
 doi: "10.1016/j.jss.2018.02.005"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/di-unipi-socc/barrel"
+external_link: "https://github.com/di-unipi-socc/yRCA"
 
 image:
-  caption: 'Barrel'
+  caption: 'yRCA'
   focal_point: Smart
 
 # links:
@@ -18,7 +18,7 @@ image:
 #     name: ''
 #     url: ''
   
-url_code: 'https://github.com/di-unipi-socc/barrel'
+url_code: 'https://github.com/di-unipi-socc/yRCA'
 url_pdf: ''
 url_slides: ''
 url_video: ''
