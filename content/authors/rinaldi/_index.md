@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Andrea Canciani
+title: Luca Rinaldi
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,8 +10,8 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Pisa
-  url: https://di.unipi.it
+  - name: University of Pisa
+    url: https://di.unipi.it/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -24,13 +24,13 @@ education:
   courses:
   - course: SOCC Member
     institution: University of Pisa
-    year: 2015 - now
+    year: 2016 - 2018
 
 # Social/Academic Networking
 social:
-- icon: home
-  icon_pack: fas
-  link: https://pages.di.unipi.it/canciani
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/lucarin91/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
