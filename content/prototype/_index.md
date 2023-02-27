@@ -22,6 +22,6 @@ columns: '1'
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: 'Prototypes'
-  image: 'banner/prototype.png'
+  caption: ''
+  image: ''
 ---
