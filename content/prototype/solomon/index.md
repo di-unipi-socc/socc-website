@@ -1,24 +1,24 @@
 ---
-title: Solomon++
-summary: "Solomon++ is a declarative open-source framework to represent hierarchical smart environments, user-set goals and customisable energy-aware mediation policies to reconcile contrasting (user and/or global) goals and relative actuator settings, encompassing multiple IoT systems considering also user roles and sustainability objectives."
+title: cloudWatcher
+summary: "cloudWatcher aims at monitoring customised health metrics (e.g., the availability of a cloud service and its performance, the status of the network, the performance of a VM’s disk) of multi-Cloud OpenStack systems, by providing configurable alerts associated with such measurements, and it is extensible to accommodate further metrics. Such an objective is pursued through a design that is based on a declarative and modular methodology for monitoring multiple datacentres (DCs)."
 tags:
-date: "2021-06-18T00:00:00Z"
+date: "2022-10-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/di-unipi-socc/Solomon"
+external_link: "https://github.com/di-unipi-socc/cloudWatcher"
 
 image:
-  caption: 'Solomon++'
+  caption: 'cloudWatcher'
   focal_point: Smart
   
-url_code: 'https://github.com/di-unipi-socc/Solomon'
+url_code: 'https://github.com/di-unipi-socc/cloudWatcher'
 url_pdf: ''
 url_slides: ''
 url_video: ''
 
-links:
-  - name: 'Publication'
-    url: 'publication/solomon'
+# links:
+#   - name: 'Publication'
+#     url: 'publication/solomon'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
