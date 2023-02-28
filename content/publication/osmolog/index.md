@@ -14,7 +14,7 @@ doi: '10.1007/978-3-030-79022-6_15'
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: " Advanced Information Systems Engineering Workshops"
+publication: " Advanced Information Systems Engineering Workshops, Springer"
 publication_short: "CAiSE"
 
 abstract: "Encompassing Cloud-IoT paradigms, Osmotic Computing features the management of IoT microelements (MELs), i.e. computation units (e.g. services, programs) that are available in different versions to compose adaptive IoT applications. New techniques are then needed to decide where to place MELs and which of the available versions to deploy, considering both infrastructure resource availability and Quality of Service (e.g. latency, costs) of the whole application. In this article, we tackle such an open challenge by proposing a declarative methodology in support of the placement of osmotic MELs."
