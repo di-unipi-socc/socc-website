@@ -3,7 +3,10 @@ title: FogBrainX
 summary: "Continuous reasoning for managing next-gen Cloud-IoT applications in continuity with the CI/CD pipeline."
 tags:
 date: "2022-02-11T00:00:00Z"
-doi: "10.1093/logcom/exab083"
+authors:
+  - forti
+  - bisicchia
+  - brogi
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/di-unipi-socc/fogbrainx"

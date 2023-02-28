@@ -1,9 +1,9 @@
 ---
 title: "Data-Aware Service Placement in the Cloud-IoT Continuum"
 authors:
-- admin
-- forti
-- brogi
+  - admin
+  - forti
+  - brogi
 
 date: "2022-10-01T00:00:00Z"
 doi: "10.1007/978-3-031-18304-1_8"

@@ -1,9 +1,9 @@
 ---
 title: "Declarative continuous reasoning in the cloud-IoT continuum"
 authors:
-- forti
-- bisicchia
-- brogi
+  - forti
+  - bisicchia
+  - brogi
 
 date: "2022-02-11T00:00:00Z"
 doi: "10.1093/logcom/exab083"
