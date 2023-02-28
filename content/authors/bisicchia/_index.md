@@ -14,7 +14,7 @@ organizations:
   url: https://di.unipi.it
 
 # Short bio (displayed in user profile at end of posts)
-bio: "PhD astudent in Computer Science @ University of Pisa, Italy."
+bio: "PhD student in Computer Science @ University of Pisa, Italy."
 
 # Interests to show in About widget
 interests:
