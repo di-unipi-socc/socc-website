@@ -5,4 +5,4 @@
 
 # SOCC Research Group website
 ### Visit the website [here](https://di-unipi-socc.netlify.app).
-#### Starting from _Research Group Template for [Hugo](https://github.com/wowchemy/starter-hugo-research-group/tree/main/content)_.
+#### Starting from _Research Group Template for [Hugo](https://github.com/wowchemy/starter-hugo-research-group)_.
