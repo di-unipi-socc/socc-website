@@ -1,28 +1,24 @@
 ---
-title: FogBrainX
-summary: "Continuous reasoning for managing next-gen Cloud-IoT applications in continuity with the CI/CD pipeline."
+title: Solomon++
+summary: "Solomon++ is a declarative open-source framework to represent hierarchical smart environments, user-set goals and customisable energy-aware mediation policies to reconcile contrasting (user and/or global) goals and relative actuator settings, encompassing multiple IoT systems considering also user roles and sustainability objectives."
 tags:
-date: "2022-02-11T00:00:00Z"
-authors:
-  - forti
-  - bisicchia
-  - brogi
+date: "2021-06-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/di-unipi-socc/fogbrainx"
+external_link: "https://github.com/di-unipi-socc/Solomon"
 
 image:
-  caption: 'FogBrainX'
+  caption: 'Solomon++'
   focal_point: Smart
   
-url_code: 'https://github.com/di-unipi-socc/fogbrainx'
+url_code: 'https://github.com/di-unipi-socc/Solomon'
 url_pdf: ''
 url_slides: ''
 url_video: ''
 
 links:
   - name: 'Publication'
-    url: 'publication/edge-usher'
+    url: 'publication/solomon'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

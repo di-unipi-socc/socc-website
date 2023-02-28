@@ -69,4 +69,4 @@ highlight_name: false
 
 Giuseppe Bisicchia is a PhD student in Computer Science at the University of Pisa. He has a Double Master's Degree cum laude in Computer Science from the University of Pisa and the University of Malaga. During his Master's, he won a research scholarship funded by GARR Consortium, working as a research fellow on the management of multi-service applications in large-scale and heterogeneous infrastructures such as Cloud-Edge. Currently, he is exploring new research opportunities in the field of the Cloud-Edge continuum. Giuseppe is also a teaching assistant in the Cloud Computing course at the University of Pisa and teaches introductory programming courses at a local middle school. Since 2018, he has been a mentor for the Pisa CoderDojo, teaching young people how to code.
 
-{{< icon name="house" pack="fas" >}} For more detailed informations, visit his [personal webpage](https://gbisi.github.io/)
+{{< icon name="house" pack="fas" >}} For more detailed informations, visit his [personal webpage](https://gbisi.github.io/).
