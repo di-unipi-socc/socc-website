@@ -10,17 +10,15 @@ external_link: "https://github.com/di-unipi-socc/osmolog"
 image:
   caption: 'osmolog'
   focal_point: Smart
-
-# links:
-#   - icon: ''
-#     icon_pack: fab
-#     name: ''
-#     url: ''
   
 url_code: 'https://github.com/di-unipi-socc/osmolog'
 url_pdf: ''
 url_slides: ''
 url_video: ''
+
+links:
+  - name: 'Publication'
+    url: 'publication/osmolog'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

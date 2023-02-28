@@ -10,17 +10,15 @@ external_link: "https://github.com/di-unipi-socc/EdgeUsher"
 image:
   caption: 'EdgeUsher'
   focal_point: Smart
-
-# links:
-#   - icon: ''
-#     icon_pack: fab
-#     name: ''
-#     url: ''
   
 url_code: 'https://github.com/di-unipi-socc/EdgeUsher'
 url_pdf: ''
 url_slides: ''
 url_video: ''
+
+links:
+  - name: 'Publication'
+    url: 'publication/edge-usher'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

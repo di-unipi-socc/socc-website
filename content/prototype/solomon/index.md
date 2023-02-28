@@ -10,15 +10,15 @@ external_link: "https://github.com/di-unipi-socc/Solomon"
 image:
   caption: 'Solomon++'
   focal_point: Smart
-
-links:
-  - name: 'Publication'
-    url: 'publication/solomon'
   
 url_code: 'https://github.com/di-unipi-socc/Solomon'
 url_pdf: ''
 url_slides: ''
 url_video: ''
+
+links:
+  - name: 'Publication'
+    url: 'publication/solomon'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

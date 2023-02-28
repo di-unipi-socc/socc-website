@@ -14,15 +14,15 @@ external_link: "https://github.com/di-unipi-socc/fogbrainx"
 image:
   caption: 'FogBrainX'
   focal_point: Smart
-
-links:
-  - name: 'Publication'
-    url: 'publication/fogbrainx'
   
 url_code: 'https://github.com/di-unipi-socc/fogbrainx'
 url_pdf: ''
 url_slides: ''
 url_video: ''
+
+links:
+  - name: 'Publication'
+    url: 'publication/edge-usher'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
