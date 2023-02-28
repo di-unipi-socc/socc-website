@@ -22,7 +22,7 @@ url_video: ''
 
 links:
   - name: 'Publication'
-    url: 'publication/edge-usher'
+    url: 'publication/fogbrainx'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
