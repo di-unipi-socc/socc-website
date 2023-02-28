@@ -12,11 +12,9 @@ image:
   caption: 'FogBrainX'
   focal_point: Smart
 
-# links:
-#   - icon: ''
-#     icon_pack: fab
-#     name: ''
-#     url: ''
+links:
+  - name: 'Publication'
+    url: 'publication/fogbrainx'
   
 url_code: 'https://github.com/di-unipi-socc/fogbrainx'
 url_pdf: ''
