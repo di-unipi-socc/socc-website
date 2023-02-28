@@ -1,5 +1,5 @@
 ---
-title: "Declarative continuous reasoning in the cloud-IoT continuum"
+title: "A Declarative Goal-oriented Framework for Smart Environments with LPaaS"
 authors:
   - bisicchia
   - forti
