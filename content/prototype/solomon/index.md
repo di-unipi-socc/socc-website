@@ -30,3 +30,4 @@ links:
 slides: ''
 ---
 <!-- Here you can insert a description -->
+Solomon++ is a declarative open-source framework to represent hierarchical smart environments, user-set goals and customisable energy-aware mediation policies to reconcile contrasting (user and/or global) goals and relative actuator settings, encompassing multiple IoT systems considering also user roles and sustainability objectives.
