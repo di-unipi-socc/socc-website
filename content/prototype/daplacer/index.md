@@ -31,3 +31,4 @@ links:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Tool for data-aware service placement and data routing in the Cloud-IoT continuum.

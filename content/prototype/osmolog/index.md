@@ -28,3 +28,4 @@ links:
 slides: ''
 ---
 <!-- Here you can insert a description -->
+A declarative solution for placing and configuring applications in Osmotic Computing settings.

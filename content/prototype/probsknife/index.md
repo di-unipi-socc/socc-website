@@ -31,3 +31,4 @@ url_video: ''
 slides: ''
 ---
 <!-- Here you can insert a description -->
+Probabilistic SKnife is a declarative prototype to evaluate the expected cost of all the partionings of an application with their cost.

@@ -31,3 +31,4 @@ url_video: ''
 slides: ''
 ---
 <!-- Here you can insert a description -->
+Tool for probabilistic QoS-assurance and resource consumption estimation of fog application deployments.

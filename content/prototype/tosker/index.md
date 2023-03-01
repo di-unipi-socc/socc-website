@@ -31,3 +31,4 @@ url_video: ''
 slides: ''
 ---
 <!-- Here you can insert a description -->
+Docker-based support for orchestrating multi-component applications specified in TOSCA.

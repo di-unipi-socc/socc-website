@@ -24,3 +24,4 @@ url_video: ''
 slides: ''
 ---
 <!-- Here you can insert a description -->
+Automating the management of composite applications.

@@ -3,6 +3,10 @@ title: cloudWatcher
 summary: "cloudWatcher aims at monitoring customised health metrics (e.g., the availability of a cloud service and its performance, the status of the network, the performance of a VM’s disk) of multi-Cloud OpenStack systems, by providing configurable alerts associated with such measurements, and it is extensible to accommodate further metrics. Such an objective is pursued through a design that is based on a declarative and modular methodology for monitoring multiple datacentres (DCs)."
 tags:
 date: "2022-10-07T00:00:00Z"
+authors:
+  - bisicchia
+  - forti
+  - brogi
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/di-unipi-socc/cloudWatcher"
@@ -28,3 +32,4 @@ url_video: ''
 slides: ''
 ---
 <!-- Here you can insert a description -->
+cloudWatcher aims at monitoring customised health metrics (e.g., the availability of a cloud service and its performance, the status of the network, the performance of a VM’s disk) of multi-Cloud OpenStack systems, by providing configurable alerts associated with such measurements, and it is extensible to accommodate further metrics. Such an objective is pursued through a design that is based on a declarative and modular methodology for monitoring multiple datacentres (DCs).

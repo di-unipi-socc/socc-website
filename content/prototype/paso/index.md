@@ -31,3 +31,4 @@ url_video: ''
 slides: ''
 ---
 <!-- Here you can insert a description -->
+Probabilistic analyser of QoS in service orchestrations.

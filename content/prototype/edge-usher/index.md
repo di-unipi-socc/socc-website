@@ -28,3 +28,4 @@ links:
 slides: ''
 ---
 <!-- Here you can insert a description -->
+A declarative prototype to solve the VNF placement in Cloud-Edge scenarios.

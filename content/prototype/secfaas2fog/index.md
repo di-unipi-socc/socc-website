@@ -31,3 +31,4 @@ url_video: ''
 slides: ''
 ---
 <!-- Here you can insert a description -->
+Declarative prototype for FaaS applications orchestration onto Fog infrastructures.

@@ -31,3 +31,4 @@ url_video: ''
 slides: ''
 ---
 <!-- Here you can insert a description -->
+yRCA enables identifying the possible root causes for a (failure) event to happen in a service instance in a multi-service application, only based on the application logs.

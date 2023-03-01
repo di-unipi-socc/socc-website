@@ -32,3 +32,4 @@ links:
 slides: ''
 ---
 <!-- Here you can insert a description -->
+Continuous reasoning for managing next-gen Cloud-IoT applications in continuity with the CI/CD pipeline.

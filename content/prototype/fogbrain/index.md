@@ -31,3 +31,4 @@ url_video: 'https://www.youtube.com/watch?v=F7oLVrNWADA'
 slides: ''
 ---
 <!-- Here you can insert a description -->
+Continuous reasoning for managing next-gen distributed applications.

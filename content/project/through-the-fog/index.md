@@ -1,6 +1,6 @@
 ---
 title: Through the Fog
-summary: "Deploying, programming and supporting fog computing applications"
+summary: "Deploying, programming and supporting fog computing applications."
 tags:
 date: "2016-01-01T00:00:00Z"
 
@@ -25,3 +25,4 @@ slides: ''
 ---
 
 <!-- Here you can insert a description -->
+Deploying, programming and supporting fog computing applications.

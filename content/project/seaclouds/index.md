@@ -24,3 +24,4 @@ url_video: ''
 slides: ''
 ---
 <!-- Here you can insert a description -->
+Seamless adaptive multi-cloud management of service-based applications.

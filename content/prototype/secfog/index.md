@@ -31,3 +31,4 @@ url_video: ''
 slides: ''
 ---
 <!-- Here you can insert a description -->
+SecFog is a simple declarative prototype that can be used to find multi-service application deployments to Cloud-Edge infrastructures and to assess their security level based on specific application security requirements, available infrastructure security capabilities, and considering trust degrees in different Edge and Cloud providers.
