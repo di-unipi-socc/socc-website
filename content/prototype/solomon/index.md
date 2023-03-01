@@ -21,9 +21,9 @@ url_slides: ''
 url_video: ''
 
 links:
-  - name: 'Publication'
+  - name: 'Publication (Jun 21)'
     url: 'publication/solomon'
-  - name: 'Publication'
+  - name: 'Publication (Oct 21)'
     url: 'publication/solomon-wip'
 
 # Slides (optional).
