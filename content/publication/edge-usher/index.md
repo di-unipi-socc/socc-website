@@ -2,7 +2,7 @@
 title: "Probabilistic QoS-aware Placement of VNF Chains at the Edge"
 authors:
   - forti
-  - paganelli
+  - "Federica Paganelli"
   - brogi
 
 date: "2021-02-15T00:00:00Z"
