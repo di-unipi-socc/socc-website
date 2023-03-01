@@ -24,8 +24,8 @@ url_slides: ''
 url_video: ''
 
 links:
-  - name: 'Prototype'
-    url: 'prototype/secfaas2fog'
+  - name: 'Publication'
+    url: 'publication/secfaas2fog'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.

@@ -24,8 +24,8 @@ url_slides: ''
 url_video: ''
 
 links:
-  - name: 'Prototype'
-    url: 'prototype/sk'
+  - name: 'Publication'
+    url: 'publication/sk'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
