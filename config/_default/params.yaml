@@ -37,7 +37,7 @@ footer:
   copyright:
     notice: '© 2023 Service-Oriented, Cloud and Fog Computing Research Group'
     license:
-      enable: false
+      enable: true
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
