@@ -1,7 +1,7 @@
 ---
 title: "Data-Aware Service Placement in the Cloud-IoT Continuum"
 authors:
-  - admin
+  - massa
   - forti
   - brogi
 
