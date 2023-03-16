@@ -1,0 +1,40 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Computing Environment-Aware Agent Behaviours with Logic Program Updates
+subtitle: ''
+summary: ''
+authors:
+- José Júlio Alferes
+- Antonio Brogi
+- João Alexandre Leite
+- Luís Moniz Pereira
+tags: []
+categories: []
+date: '2001-01-01'
+lastmod: 2023-03-16T15:02:58+01:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2023-03-16T14:02:57.922290Z'
+publication_types:
+- '1'
+abstract: ''
+publication: '*Logic Based Program Synthesis and Transformation, 11th International
+  Workshop, LOPSTR 2001, Paphos, Cyprus, November 28-30, 2001, Selected Papers*'
+doi: 10.1007/3-540-45607-4_12
+---
