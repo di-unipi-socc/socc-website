@@ -62,7 +62,7 @@ user_groups:
   - PhD Students
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Jacopo Massa is a PhD student at University of Pisa and CNR-ISTI. His studies include Cloud & Fog/Edge computing, and declarative approaches to model and deploy applications over the Cloud-IoT continuum. 
