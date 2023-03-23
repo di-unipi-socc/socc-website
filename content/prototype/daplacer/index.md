@@ -4,9 +4,9 @@ summary: "Tool for data-aware service placement and data routing in the Cloud-Io
 tags:
 date: "2021-12-02T00:00:00Z"
 authors:
-  - admin
-  - forti
-  - brogi
+  - Jacopo Massa
+  - Stefano Forti
+  - Antonio Brogi
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/di-unipi-socc/daplacer"
