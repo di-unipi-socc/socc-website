@@ -4,7 +4,7 @@ summary: "Tool for data-aware service placement and data routing in the Cloud-Io
 tags:
 date: "2021-12-02T00:00:00Z"
 authors:
-  - Jacopo Massa
+  - massa
   - Stefano Forti
   - Antonio Brogi
 
