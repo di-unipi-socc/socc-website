@@ -5,8 +5,8 @@ tags:
 date: "2021-12-02T00:00:00Z"
 authors:
   - massa
-  - Stefano Forti
-  - Antonio Brogi
+  - forti
+  - brogi
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://github.com/di-unipi-socc/daplacer"
