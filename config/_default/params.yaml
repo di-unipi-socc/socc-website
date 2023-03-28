@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
-  font: minimal # native
+  theme_day: "minimal"
+  day_night: true
+  font: "native" # "minimal"
   font_size: L
 
 # SEO
@@ -27,7 +27,7 @@ header:
     align: l
     show_logo: true
     show_language: false
-    show_day_night: false
+    show_day_night: true
     show_search: true
     highlight_active_link: true
 
