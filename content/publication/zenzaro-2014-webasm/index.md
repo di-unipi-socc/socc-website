@@ -1,39 +1,74 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: 'WebASM: An Abstract State Machine Execution Environment for the Web'
-subtitle: ''
-summary: ''
+
+# Authors
+# A YAML list of author names
+# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
+# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Simone Zenzaro
 - Vincenzo Gervasi
 - Jacopo Soldani
-tags: []
-categories: []
-date: '2014-01-01'
-lastmod: 2023-03-16T15:05:59+01:00
-featured: false
-draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Author notes (such as 'Equal Contribution')
+# A YAML list of notes for each author in the above `authors` list
+author_notes: []
+
+date: '2014-01-01'
+
+# Date to publish webpage (NOT necessarily Bibtex publication's date).
+publishDate: '2023-11-03T16:15:41.884677Z'
+
+# Publication type.
+# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+publication_types:
+- paper-conference
+
+# Publication name and optional abbreviated publication name.
+publication: '*Abstract State Machines, Alloy, B, TLA, VDM, and Z - 4th International
+  Conference, ABZ 2014, Toulouse, France, June 2-6, 2014. Proceedings*'
+publication_short: ''
+
+doi: 10.1007/978-3-662-43652-3_19
+
+abstract: ''
+
+# Summary. An optional shortened abstract.
+summary: ''
+
+tags: []
+
+# Display this page in a list of Featured pages?
+featured: false
+
+# Links
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+# Publication image
+# Add an image named `featured.jpg/png` to your page's folder then add a caption below.
 image:
   caption: ''
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+#   E.g. `projects: ['internal-project']` links to `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
 projects: []
-publishDate: '2023-03-16T14:05:58.860593Z'
-publication_types:
-- '1'
-abstract: ''
-publication: '*Abstract State Machines, Alloy, B, TLA, VDM, and Z - 4th International
-  Conference, ABZ 2014, Toulouse, France, June 2-6, 2014. Proceedings*'
-doi: 10.1007/978-3-662-43652-3_19
 ---
+
+Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
