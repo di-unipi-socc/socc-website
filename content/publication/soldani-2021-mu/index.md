@@ -16,10 +16,10 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: -01-01
+date: '2021-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-11-03T16:15:41.302145Z'
+publishDate: '2024-07-19T09:32:07.691057Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -27,10 +27,10 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: ''
+publication: '*Softw. Pract. Exp.*'
 publication_short: ''
 
-doi: ''
+doi: 10.1002/SPE.2974
 
 abstract: ''
 
