@@ -3,34 +3,33 @@ title: A Two-Tiered Approach to Enabling Enhanced Service Discovery in Embedded 
   Systems
 
 # Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - Antonio Brogi
 - Sara Corfini
 - Thaizel Fuentes
 
 # Author notes (such as 'Equal Contribution')
-# A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
 date: '2009-01-01'
+doi: 10.1007/978-3-642-10383-4_5
 
-# Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-07-19T09:32:06.598898Z'
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-07-19T09:41:12.965306Z'
 
 # Publication type.
-# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
-- paper-conference
+- '1'
 
 # Publication name and optional abbreviated publication name.
 publication: '*Service-Oriented Computing, 7th International Joint Conference, ICSOC-ServiceWave
   2009, Stockholm, Sweden, November 24-27, 2009. Proceedings*'
 publication_short: ''
-
-doi: 10.1007/978-3-642-10383-4_5
 
 abstract: ''
 

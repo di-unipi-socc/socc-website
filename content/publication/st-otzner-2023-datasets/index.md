@@ -3,9 +3,8 @@ title: Datasets for a Systematic Technology Review of General-Purpose Open-Sourc
   TOSCA Orchestrators (Version 5)
 
 # Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - Miles Stötzner
 - Steffen Becker
@@ -18,24 +17,24 @@ authors:
 - Frank Leymann
 
 # Author notes (such as 'Equal Contribution')
-# A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
 date: '2023-10-01'
+doi: 10.5281/ZENODO.10044274
 
-# Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-07-19T09:32:07.531462Z'
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-07-19T09:41:13.823001Z'
 
 # Publication type.
-# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
-- manuscript
+- '0'
 
 # Publication name and optional abbreviated publication name.
 publication: '*Zenodo*'
 publication_short: ''
-
-doi: 10.5281/ZENODO.10044274
 
 abstract: ''
 

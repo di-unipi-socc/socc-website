@@ -2,33 +2,32 @@
 title: Automated Generation of BPEL Adapters
 
 # Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - Antonio Brogi
 - Razvan Popescu
 
 # Author notes (such as 'Equal Contribution')
-# A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
 date: '2007-01-01'
+doi: ''
 
-# Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-07-19T09:32:06.659751Z'
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-07-19T09:41:13.021781Z'
 
 # Publication type.
-# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
-- paper-conference
+- '1'
 
 # Publication name and optional abbreviated publication name.
 publication: '*Memorias de la X Conferencia Iberoamericana de Software Engineering
   (CIbSE 2007), Isla de Marguerita, Venezuela, Mayo 7-11, 2007*'
 publication_short: ''
-
-doi: ''
 
 abstract: ''
 

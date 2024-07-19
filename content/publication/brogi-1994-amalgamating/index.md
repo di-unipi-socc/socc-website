@@ -2,34 +2,33 @@
 title: Amalgamating Language and Meta-language for Composing Logic Programs
 
 # Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - Antonio Brogi
 - Chiara Renso
 - Franco Turini
 
 # Author notes (such as 'Equal Contribution')
-# A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
 date: '1994-01-01'
+doi: ''
 
-# Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-07-19T09:32:07.006615Z'
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-07-19T09:41:13.329815Z'
 
 # Publication type.
-# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
-- paper-conference
+- '1'
 
 # Publication name and optional abbreviated publication name.
 publication: "*1994 Joint Conference on Declarative Programming, GULP-PRODE'94 Peñiscola,
   Spain, September 19-22, 1994, Volume 2*"
 publication_short: ''
-
-doi: ''
 
 abstract: ''
 

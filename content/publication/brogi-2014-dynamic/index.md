@@ -3,9 +3,8 @@ title: Dynamic Verification of Mashups of Service-Oriented Things through a Medi
   Platform
 
 # Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - Antonio Brogi
 - Javier Cubo
@@ -14,24 +13,24 @@ authors:
 - Raúl Ruggia
 
 # Author notes (such as 'Equal Contribution')
-# A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
 date: '2014-01-01'
+doi: 10.3217/JUCS-020-08-1049
 
-# Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-07-19T09:32:06.515034Z'
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-07-19T09:41:12.887321Z'
 
 # Publication type.
-# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
-- article-journal
+- '2'
 
 # Publication name and optional abbreviated publication name.
 publication: '*J. Univers. Comput. Sci.*'
 publication_short: ''
-
-doi: 10.3217/JUCS-020-08-1049
 
 abstract: ''
 

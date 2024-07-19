@@ -2,9 +2,8 @@
 title: Pattern-based Modelling, Integration, and Deployment of Microservice Architectures
 
 # Authors
-# A YAML list of author names
-# If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
-# write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
 - Vladimir Yussupov
 - Uwe Breitenbücher
@@ -14,25 +13,25 @@ authors:
 - Michael Wurster
 
 # Author notes (such as 'Equal Contribution')
-# A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
 date: '2020-01-01'
+doi: 10.1109/EDOC49727.2020.00015
 
-# Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-07-19T09:32:07.747446Z'
+# Schedule page publish date (NOT publication's date).
+publishDate: '2024-07-19T09:41:14.017960Z'
 
 # Publication type.
-# A single CSL publication type but formatted as a YAML list (for Hugo requirements).
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
 publication_types:
-- paper-conference
+- '1'
 
 # Publication name and optional abbreviated publication name.
 publication: '*24th IEEE International Enterprise Distributed Object Computing Conference,
   EDOC 2020, Eindhoven, The Netherlands, October 5-8, 2020*'
 publication_short: ''
-
-doi: 10.1109/EDOC49727.2020.00015
 
 abstract: ''
 
