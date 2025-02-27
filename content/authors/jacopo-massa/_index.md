@@ -44,10 +44,6 @@ social:
   icon_pack: fas
   link: 'mailto:jacopo.massa@phd.unipi.it'
 
-- icon: home
-  icon_pack: fas
-  link: https://pages.di.unipi.it/massa
-
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=tuUxuWUAAAAJ
