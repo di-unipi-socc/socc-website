@@ -15,7 +15,7 @@ organizations:
   url: https://di.unipi.it
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Assistant Professor in Computer Science, University of Pisa, Italia."
+bio: "Associate Professor in Computer Science, University of Pisa, Italy."
 
 # Interests to show in About widget
 interests:
@@ -49,7 +49,7 @@ social:
 email: ""
 
 user_groups:
-  - Assistant Professors
+  - Associate Professors
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

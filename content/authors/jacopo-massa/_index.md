@@ -56,7 +56,7 @@ social:
 email: ""
 
 user_groups:
-  - PhD Students
+  - Research Fellows
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
