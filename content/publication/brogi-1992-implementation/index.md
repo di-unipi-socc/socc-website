@@ -18,7 +18,7 @@ date: '1992-01-01'
 doi: 10.1016/0020-0190(92)90232-K
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-02-27T11:27:05.326569Z'
+publishDate: '2025-02-27T14:54:22.954756Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

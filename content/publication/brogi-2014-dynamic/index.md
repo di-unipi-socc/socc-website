@@ -19,7 +19,7 @@ date: '2014-01-01'
 doi: 10.3217/JUCS-020-08-1049
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-02-27T11:27:04.835132Z'
+publishDate: '2025-02-27T14:54:22.460995Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

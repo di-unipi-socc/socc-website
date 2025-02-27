@@ -16,7 +16,7 @@ date: '2011-01-01'
 doi: 10.3233/IA-2011-0007
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-02-27T11:27:04.880324Z'
+publishDate: '2025-02-27T14:54:22.506369Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

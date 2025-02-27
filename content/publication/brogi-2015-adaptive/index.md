@@ -25,7 +25,7 @@ date: '2015-01-01'
 doi: 10.19153/CLEIEJ.18.1.1
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-02-27T11:27:06.238387Z'
+publishDate: '2025-02-27T14:54:23.881661Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

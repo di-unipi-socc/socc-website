@@ -16,7 +16,7 @@ date: '2011-01-01'
 doi: 10.1007/978-3-642-35743-5_16
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-02-27T11:27:04.883970Z'
+publishDate: '2025-02-27T14:54:22.510011Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

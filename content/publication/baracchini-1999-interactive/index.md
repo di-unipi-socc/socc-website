@@ -16,7 +16,7 @@ date: '1999-01-01'
 doi: 10.2312/EGS.19991006
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-02-27T11:27:05.222977Z'
+publishDate: '2025-02-27T14:54:22.851062Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
