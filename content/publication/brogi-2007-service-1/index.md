@@ -18,7 +18,7 @@ date: '2007-01-01'
 doi: 10.1016/J.ENTCS.2008.03.096
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-09-06T13:46:15.617858Z'
+publishDate: '2025-02-27T09:33:11.782234Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

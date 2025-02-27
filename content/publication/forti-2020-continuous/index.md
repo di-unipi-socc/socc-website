@@ -15,7 +15,7 @@ date: '2020-01-01'
 doi: 10.4204/EPTCS.325.22
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-09-06T13:46:17.342361Z'
+publishDate: '2025-02-27T09:33:13.565785Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
