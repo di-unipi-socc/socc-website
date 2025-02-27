@@ -6,7 +6,7 @@ title: Jacopo Massa
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -59,7 +59,7 @@ social:
 email: ""
 
 user_groups:
-  - PhD Students
+  - research Fellow
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
