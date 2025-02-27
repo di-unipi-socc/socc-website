@@ -1,18 +1,18 @@
 ---
 # Display name
-title: Ahmad Ibrahim
+title: Andrea Canciani
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Post-doc Researcher
+role: PhD Student
+home: https://pages.di.unipi.it/canciani/
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Birmingham (Dubai campus)
-  url: https://www.birmingham.ac.uk/dubai/index.aspx
-
+- name: University of Pisa
+  url: https://di.unipi.it
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -25,13 +25,9 @@ education:
   courses:
   - course: SOCC Member
     institution: University of Pisa
-    year: 2013 - 2018
+    year: 2015 - now
 
 # Social/Academic Networking
-social:
-- icon: home
-  icon_pack: fas
-  link: https://www.cs.bham.ac.uk/~ibrahima/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

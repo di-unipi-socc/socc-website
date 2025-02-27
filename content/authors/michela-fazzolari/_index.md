@@ -1,17 +1,18 @@
 ---
 # Display name
-title: Andrea Canciani
+title: Michela Fazzolari
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: PhD Student
+role: Post-Doc Researcher
+home: https://www.linkedin.com/in/michelafazzolari
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Pisa
-  url: https://di.unipi.it
+- name: Istituto di Informatica e Telematica
+  url: https://www.iit.cnr.it
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -24,13 +25,13 @@ education:
   courses:
   - course: SOCC Member
     institution: University of Pisa
-    year: 2015 - now
+    year: 2014 - 2015
 
 # Social/Academic Networking
 social:
-- icon: home
-  icon_pack: fas
-  link: https://pages.di.unipi.it/canciani
+  - icon: linkedin
+    icon_pack: fab
+    link: 'https://www.linkedin.com/in/michelafazzolari'  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

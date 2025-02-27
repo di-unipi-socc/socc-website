@@ -4,6 +4,7 @@ title: Jacopo Massa
 
 # Is this the primary user of the site?
 superuser: true
+home: "https://pages.di.unipi.it/massa"
 
 # Role/position/tagline
 role: Research Fellow
@@ -59,7 +60,7 @@ social:
 email: ""
 
 user_groups:
-  - research Fellow
+  - PhD Students
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

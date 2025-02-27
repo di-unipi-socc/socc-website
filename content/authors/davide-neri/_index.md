@@ -1,17 +1,18 @@
 ---
 # Display name
-title: Luca Rinaldi
+title: Davide Neri
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: PhD Student
+role: Post-Doc Researcher
+home: https://pages.di.unipi.it/neri
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Pisa
-    url: https://di.unipi.it/en/
+- name: University of Pisa
+  url: https://di.unipi.it
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -24,13 +25,17 @@ education:
   courses:
   - course: SOCC Member
     institution: University of Pisa
-    year: 2016 - 2018
+    year: startYear - endYear
 
 # Social/Academic Networking
 social:
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/lucarin91/
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:davide.neri@di.unipi.it'
+
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=FnjRptsAAAAJ
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

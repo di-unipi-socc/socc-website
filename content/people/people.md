@@ -18,7 +18,7 @@ content:
   user_groups:
     - Full Professors
     - Assistant Professors
-    - Post-Doc Researchers
+    - Research Fellows
     - PhD Students
     - MSc Students
     - BSc Students

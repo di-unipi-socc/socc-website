@@ -7,6 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: Assistant Professor
+home: https://pages.di.unipi.it/soldani/
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -39,10 +40,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jacopo.soldani@unipi.it'
-
-- icon: home
-  icon_pack: fas
-  link: https://pages.di.unipi.it/soldani
 
 - icon: google-scholar
   icon_pack: ai

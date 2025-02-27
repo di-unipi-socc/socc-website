@@ -1,0 +1,25 @@
+{{/* Display author list. */}}
+
+{{- $taxonomy := "authors" }}
+{{ if .Param $taxonomy }}
+{{ range $index, $value := (.GetTerms $taxonomy) }}
+{{- /* Highlight the author's name? */ -}}
+{{- $highlight_name := .Page.Params.highlight_name | default false -}}
+{{- $pathParts := split .Path "/" -}}
+{{- $basename := index $pathParts (sub (len $pathParts) 1) -}}
+
+{{- if gt $index 0 }}, {{ end -}}
+<span {{ if $highlight_name }}class="author-highlighted" {{end}}>
+    {{- if .Params.home -}}
+    <a href="{{.Params.home}}" target="_blank">{{.LinkTitle}}</a>
+    {{- else -}}
+    <a aria-disabled="true" class="pe-none">{{.LinkTitle}}</a>
+    {{- end -}}
+</span>
+{{- if isset $.Params "author_notes" -}}
+{{- with (index $.Params.author_notes $index) -}}
+<i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="{{.}}"></i>
+{{- end -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}

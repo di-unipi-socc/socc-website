@@ -7,6 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: Full Professor
+home: https://pages.di.unipi.it/brogi/
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,10 +31,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:antonio.brogi@unipi.it'
-
-- icon: home
-  icon_pack: fas
-  link: https://pages.di.unipi.it/brogi
 
 - icon: google-scholar
   icon_pack: ai

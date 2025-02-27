@@ -1,17 +1,19 @@
 ---
 # Display name
-title: Michela Fazzolari
+title: Ahmad Ibrahim
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Post-Doc Researcher
+role: Post-doc Researcher
+home: https://www.cs.bham.ac.uk/~ibrahima/
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Istituto di Informatica e Telematica
-  url: https://www.iit.cnr.it
+- name: University of Birmingham (Dubai campus)
+  url: https://www.birmingham.ac.uk/dubai/index.aspx
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -24,13 +26,9 @@ education:
   courses:
   - course: SOCC Member
     institution: University of Pisa
-    year: 2014 - 2015
+    year: 2013 - 2018
 
 # Social/Academic Networking
-social:
-  - icon: linkedin
-    icon_pack: fab
-    link: 'https://www.linkedin.com/in/michelafazzolari'  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

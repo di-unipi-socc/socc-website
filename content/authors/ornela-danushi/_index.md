@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: University of Pisa / CNR-ISTI
+    institution: University of Pisa
     year: ''
   - course: MSc in Computer Science
     institution: University of Pisa

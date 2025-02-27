@@ -7,6 +7,7 @@ superuser: false
 
 # Role/position/tagline
 role: PhD Student
+home: https://gbisi.github.io/
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -44,10 +45,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:giuseppe.bisicchia@phd.unipi.it'
-
-- icon: home
-  icon_pack: fas
-  link: https://gbisi.github.io/
 
 - icon: google-scholar
   icon_pack: ai
