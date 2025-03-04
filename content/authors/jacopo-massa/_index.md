@@ -17,7 +17,7 @@ organizations:
   url: https://www.isti.cnr.it/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Computer Science @ University of Pisa and CNR-ISTI, Italy.
+bio: PhD candidate in Computer Science @ University of Pisa and CNR-ISTI, Italy.
 
 # Interests to show in About widget
 interests:
